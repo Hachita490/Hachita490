@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/Hachita490.svg" width="1200" alt="Hachita490" />
+  <img src="Hachita490.svg" width="1200" alt="Hachita490" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -87,6 +87,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/Hachita490-quotes.svg" width="846" height="150" alt="Hachita490" />
+  <img src="Hachita490-quotes.svg" width="846" height="150" alt="Hachita490" />
 </a>
 
